@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GD.Island.CSharp.Plugins", "GD.Island.CSharp.Plugins.csproj", "{1F16C646-593E-0E1F-9DA9-B32C58564633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GD.Island.CSharp", "GD.Island.CSharp.csproj", "{24EDF928-EC8E-7F62-6619-3C77164994D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GD.Island.CSharp.Editor", "GD.Island.CSharp.Editor.csproj", "{2A052B6E-9922-5490-D5E1-19BA66890069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F16C646-593E-0E1F-9DA9-B32C58564633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F16C646-593E-0E1F-9DA9-B32C58564633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F16C646-593E-0E1F-9DA9-B32C58564633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F16C646-593E-0E1F-9DA9-B32C58564633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24EDF928-EC8E-7F62-6619-3C77164994D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EDF928-EC8E-7F62-6619-3C77164994D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EDF928-EC8E-7F62-6619-3C77164994D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EDF928-EC8E-7F62-6619-3C77164994D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A052B6E-9922-5490-D5E1-19BA66890069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A052B6E-9922-5490-D5E1-19BA66890069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A052B6E-9922-5490-D5E1-19BA66890069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A052B6E-9922-5490-D5E1-19BA66890069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
